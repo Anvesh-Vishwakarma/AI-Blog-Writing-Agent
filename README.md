@@ -101,13 +101,13 @@ streamlit run bwa_frontend.py
 # 💡 How It Works
 1. User enters a topic
 2. Router decides:
- * Need research or not
+   * Need research or not
 3. Research node fetches real-time data
 4. Orchestrator creates a structured plan
 5. Workers generate sections in parallel
 6 Reducer:
- * Merges content
- * Adds images
+   * Merges content
+   * Adds images
 7. Final blog is generated + downloadable
 
 # 📦 Output
