@@ -1,0 +1,31 @@
+# ==============================
+# LangChain + LangGraph stack
+# ==============================
+langchain
+langchain-core
+langchain-openai
+langgraph
+langchain-community
+
+# ==============================
+# LLM / API clients
+# ==============================
+openai
+tavily-python
+google-genai
+
+# ==============================
+# Data validation
+# ==============================
+pydantic
+
+# ==============================
+# Environment variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Optional (safe for your other file)
+# ==============================
+pandas
+streamlit
