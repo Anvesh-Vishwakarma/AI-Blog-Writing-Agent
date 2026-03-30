@@ -69,7 +69,7 @@ Supports multiple blog types:
 
 1️⃣ Clone Repository
 ```
-git clone https://github.com/your-username/blog-writing-agent.git
+git clone https://github.com/Anvesh-Vishwakarma/AI-Blog-Writing-Agent.git
 cd blog-writing-agent
 ```
 
