@@ -2,6 +2,8 @@
 
 An advanced AI-powered Blog Writing Agent that automatically generates high-quality, structured, and visually enhanced blogs using LangGraph, LLMs, and real-time research.
 
+![image alt](https://github.com/Anvesh-Vishwakarma/AI-Blog-Writing-Agent/blob/main/Screenshot%202.png?raw=true)
+
 This project demonstrates a multi-agent workflow system capable of:
 * Planning blog structure
 * Performing research
@@ -52,9 +54,6 @@ Supports multiple blog types:
 # 🧠 Architecture Overview
 
 ![image alt](https://github.com/Anvesh-Vishwakarma/AI-Blog-Writing-Agent/blob/main/Screenshot%203.png?raw=true)
-
-# 📷 Project Screenshots
-sss
 
 # 🛠️ Tech Stack
 
