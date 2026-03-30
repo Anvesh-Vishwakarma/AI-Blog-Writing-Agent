@@ -51,22 +51,7 @@ Supports multiple blog types:
 
 # 🧠 Architecture Overview
 
-User Input (Topic)
-        ↓
-   🧭 Router
-        ↓
-   🔎 Research (Optional)
-        ↓
-   🧩 Orchestrator (Plan)
-        ↓
-   ⚙️ Workers (Parallel Sections)
-        ↓
-   🧠 Reducer
-   ├── Merge Content
-   ├── Decide Images
-   └── Generate Images
-        ↓
-   📄 Final Blog Output
+![image alt](https://github.com/Anvesh-Vishwakarma/AI-Blog-Writing-Agent/blob/main/Screenshot%203.png?raw=true)
 
 # 📷 Project Screenshots
 sss
