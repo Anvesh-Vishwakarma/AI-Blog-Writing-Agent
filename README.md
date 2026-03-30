@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ```
 
 4️⃣ Setup Environment Variables
-* Create a .env file and your openai, google-genai and Tavily API key here:
+* Create a .env file and paste your openai, google-genai and Tavily API key here:
 ```
 OPEN_API_KEY=your_openai_key
 GOOGLE_API_KEY=your_gemini_key
