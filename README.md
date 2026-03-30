@@ -115,7 +115,9 @@ streamlit run bwa_frontend.py
 The system generates:
 
 📄 Markdown Blog
+
 🖼️ Images Folder
+
 📦 Downloadable ZIP (Blog + Images)
 
 
